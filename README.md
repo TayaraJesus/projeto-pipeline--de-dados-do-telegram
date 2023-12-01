@@ -1,4 +1,4 @@
-# projeto-pipeline--de-dados-do-telegram
+# projeto-pipeline-de-dados-do-telegram
 Este é um projeto de pipeline de dados que coleta mensagens de grupos do Telegram, realiza transformações (ETL) e permite consulta dos dados usando serviços da AWS, como Amazon S3, AWS Lambda e Amazon Athena.
 ![desenho arquitetura](https://github.com/TayaraJesus/projeto-pipeline--de-dados-do-telegram/assets/142426164/d30b9215-2e27-4791-97de-c14320fa226c)
 
