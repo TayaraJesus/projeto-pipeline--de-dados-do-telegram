@@ -4,6 +4,7 @@ Este é um projeto de pipeline de dados que coleta mensagens de grupos do Telegr
 
 
 - Visão Geral
+  
 Este projeto apresenta um pouco sobre fundamentos de engenharia de dados. Foi construído um pipeline de dados do telegram, que captura, processa, armazena e expõe mensagens de um grupo do telegram para que profissionais de dados possam realizar análises. 
 
 O propósito essencial deste projeto é a extração de dados pertinentes dos grupos do Telegram, viabilizando sua análise e recuperação por meio de soluções da AWS, tais como Amazon S3, Amazon Lambda e Amazon Athena.
