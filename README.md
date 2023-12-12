@@ -22,4 +22,5 @@ Nesse projeto serão apresentadas as mensagens captadas por um bot no Telegram a
 6. Ingestão
 7. ETL
 8. Apresentação
-9. Conclusão   
+9. Visualização com Gráficos e DataFrame
+10. Conclusão
