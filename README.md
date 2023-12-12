@@ -24,3 +24,6 @@ Nesse projeto serão apresentadas as mensagens captadas por um bot no Telegram a
 8. Apresentação
 9. Visualização com Gráficos e DataFrame
 10. Conclusão
+
+![image](https://github.com/TayaraJesus/projeto-pipeline--de-dados-do-telegram/assets/142426164/c840b002-5ffe-404b-a40a-ef369fd5d6e3)
+    
