@@ -20,4 +20,6 @@ Nesse projeto serão apresentadas as mensagens captadas por um bot no Telegram a
 4. Telegram
 5. Mensagem
 6. Ingestão
-7 
+7. ETL
+8. Apresentação
+9. Conclusão   
