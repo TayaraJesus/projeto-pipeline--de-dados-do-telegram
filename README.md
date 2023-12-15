@@ -1,6 +1,6 @@
 # PROJETO PIPELINE DE DADOS DO TELEGRAM
 
-### Para ver todo o conteúdo do projeto no notebbok, basta fazer o dowload! ; )
+### Para ver todo o conteúdo do projeto no notebook, basta fazer o download do arquivo no formato ipynb! ; )
 
 Este é um projeto de pipeline de dados que coleta mensagens de grupos do Telegram, realiza transformações (ETL) e permite consulta dos dados usando serviços da AWS, como Amazon S3, AWS Lambda e Amazon Athena.
 
